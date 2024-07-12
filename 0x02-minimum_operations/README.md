@@ -1,4 +1,4 @@
-# 0x02 Minimum Operations :clown:
+# 0x02 Minimum Operations :neckbeard:
 
 > Technical interview challenges
 
